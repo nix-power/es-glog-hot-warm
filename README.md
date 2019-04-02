@@ -1,4 +1,4 @@
-AWS Elasticsearch cluster.
+AWS Graylog cluster.
 
 At my current position i was responsible to plan, to provision and to maintain graylog cluster which is capable of gathering of ~ 1Tb
 logs daily from over two thousands physical servers, several hundreds AWS ec2 machines and from 3 large kubernetes clusters on AWS
